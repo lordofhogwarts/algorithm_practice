@@ -1,7 +1,7 @@
 package com.bst;
 
 public class Node {
-	int data;
+	public int data;
 	Node left;
 	Node right;
 	// constructor
